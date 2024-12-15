@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094471333396",
+    "project_id": "guardians-15ffd",
+    "storage_bucket": "guardians-15ffd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094471333396:android:4f376cf972b055ff211901",
+        "android_client_info": {
+          "package_name": "com.example.my_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCOjwZue0vEORo4eHgRT4Z4g4F3SGkqbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
