@@ -1,6 +1,6 @@
-# 📱 **My Project** - Flutter Mobile Application
+# 📱 **Guardians** - Flutter Mobile Application - Under Construction 🚧
 
-Welcome to **My Project** – an advanced mobile application built with **Flutter**. This project delivers a seamless user experience by combining modern UI design, Firebase integration, and clean, modular architecture. The app has been carefully designed to meet high performance and usability standards.
+Welcome to **Guardians** – an advanced mobile application built with **Flutter**. This project delivers a seamless user experience by combining modern UI design, Firebase integration, and clean, modular architecture. The app has been carefully designed to meet high performance and usability standards.
 
 ---
 
@@ -35,7 +35,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/username/my_project.git
+   git clone https://github.com/hindaBracha/Guardians.git
    cd my_project
    ```
 
